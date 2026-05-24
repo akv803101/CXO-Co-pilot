@@ -1,0 +1,55 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "name": "BigBasket Enterprise",
+      "rep": "Priya",
+      "stage": "Proposal",
+      "value": 2400000,
+      "close_date": "2024-06-30",
+      "risk": "High"
+    },
+    {
+      "id": 2,
+      "name": "Nykaa Direct",
+      "rep": "Rohan",
+      "stage": "Negotiation",
+      "value": 1800000,
+      "close_date": "2024-07-15",
+      "risk": "Medium"
+    },
+    {
+      "id": 3,
+      "name": "Flipkart Beauty",
+      "rep": "Anita",
+      "stage": "Discovery",
+      "value": 3200000,
+      "close_date": "2024-09-01",
+      "risk": "Low"
+    },
+    {
+      "id": 4,
+      "name": "Myntra Skincare",
+      "rep": "Vikram",
+      "stage": "Proposal",
+      "value": 1500000,
+      "close_date": "2024-07-30",
+      "risk": "High"
+    },
+    {
+      "id": 5,
+      "name": "Amazon Launchpad",
+      "rep": "Priya",
+      "stage": "Closed Won",
+      "value": 2100000,
+      "close_date": "2024-05-01",
+      "risk": "None"
+    }
+  ],
+  "summary": {
+    "total_pipeline_value": 11000000,
+    "deals_at_risk": 3,
+    "avg_deal_size": 2200000,
+    "q2_target": 8000000
+  }
+}

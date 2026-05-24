@@ -1,0 +1,9 @@
+name: orders_agent
+description: >
+  Handles questions about GlowKart revenue, actuals, forecasts, and regional performance.
+  Use when: revenue, sales, target, forecast, Q1, Q2, region, North, South, East, West.
+tables:
+  - name: orders
+    columns: [date, region, product, units, revenue, quarter]
+  - name: forecast
+    columns: [quarter, region, target, actual]
